@@ -8,10 +8,12 @@ Este projeto utiliza o modelo YOLOv5 para detectar objetos em imagens e converte
 
 ## Demonstração
 
-<img src="caminho/para/sua/imagem.jpg" alt="Exemplo de Detecção de Objetos" width="500"/>
-
+<img src="/exemplo1.png" alt="Exemplo de Detecção de Objetos" width="500"/>
 
 > Imagem com objetos detectados e rotulados usando YOLOv5.
+[Clique aqui para ouvir o áudio de exemplo](caminho/para/seu/audio.mp3)
+
+> Ouça a descrição dos objetos detectados na imagem.
 
 ## Funcionalidades
 
