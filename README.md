@@ -8,9 +8,14 @@ Este projeto utiliza o modelo YOLOv5 para detectar objetos em imagens e converte
 
 ## Demonstração
 
-<img src="/exemplo1.png" alt="Exemplo de Detecção de Objetos" width="500"/>
+<img src="/exemplo1.png" alt="Exemplo de Detecção de Objetos" width="300"/>
 
 > Imagem com objetos detectados e rotulados usando YOLOv5.
+
+Você pode acessar o código completo do projeto no [notebook Jupyter disponível aqui]([caminho/para/seu_projeto.ipynb](https://colab.research.google.com/drive/14dyFYTxi3J1gy4QApOBlzwRE58PcSqyT?usp=sharing)).
+
+> Clique no link acima para visualizar e executar o notebook diretamente no GitHub.
+> 
 [Clique aqui para ouvir o áudio de exemplo](/content/audio.mp3)
 
 > Ouça a descrição dos objetos detectados na imagem.
