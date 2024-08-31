@@ -8,7 +8,8 @@ Este projeto utiliza o modelo YOLOv5 para detectar objetos em imagens e converte
 
 ## Demonstração
 
-![Exemplo de Detecção de Objetos](https://github.com/seu-usuario/seu-repositorio/exemplo.jpg)
+<img src="caminho/para/sua/imagem.jpg" alt="Exemplo de Detecção de Objetos" width="500"/>
+
 
 > Imagem com objetos detectados e rotulados usando YOLOv5.
 
@@ -25,10 +26,4 @@ Este projeto utiliza o modelo YOLOv5 para detectar objetos em imagens e converte
 - Google Colab (ou ambiente local com suporte a Jupyter Notebook)
 - Bibliotecas Python: `torch`, `opencv-python`, `gtts`, `IPython`
 
-## Configuração
 
-### 1. Clonar o Repositório
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
