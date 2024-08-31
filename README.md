@@ -20,7 +20,7 @@ Você pode acessar o código completo do projeto no [notebook Jupyter disponíve
 
 - Detecta múltiplos objetos em uma imagem utilizando o modelo YOLOv5.
 - Rotula os objetos detectados diretamente na imagem.
-- Converte a descrição dos objetos detectados para áudio em português.
+- Converte a descrição dos objetos detectados para áudio.
 - Exibe a imagem processada com rótulos no Google Colab.
 
 ## Requisitos
@@ -28,5 +28,13 @@ Você pode acessar o código completo do projeto no [notebook Jupyter disponíve
 - Python 3.6+
 - Google Colab (ou ambiente local com suporte a Jupyter Notebook)
 - Bibliotecas Python: `torch`, `opencv-python`, `gtts`, `IPython`
+## Conclusão
+
+Este trabalho pode ser expandido e melhorado de várias maneiras, como adicionar suporte para múltiplos idiomas na conversão de texto para áudio, integrar com outros modelos de detecção para uma melhor acurácia, ou até mesmo desenvolver uma aplicação móvel completa que utilize essas funcionalidades. O potencial para crescimento e inovação neste campo é vasto, e este projeto é apenas um ponto de partida.
+
+Convidamos os colaboradores e a comunidade a explorar, utilizar e aprimorar este projeto para criar soluções inclusivas e inovadoras.
+
+
+
 
 
